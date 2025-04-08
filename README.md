@@ -1,4 +1,4 @@
-# Gawad-Heneral-Film-Festival-2025.
+
 import React, { useState, useRef } from "react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
